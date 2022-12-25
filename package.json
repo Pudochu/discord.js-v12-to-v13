@@ -1,0 +1,25 @@
+{
+  "name": "v12-to-v13",
+  "version": "1.0.0",
+  "description": "Update discord V12 codes to V13",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akif9748/discordjs-v12-to-v13.git"
+  },
+  "author": "Akif9748",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Akif9748/discordjs-v12-to-v13/issues"
+  },
+  "homepage": "https://github.com/Akif9748/discordjs-v12-to-v13#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.0.0",
+    "prettier": "^2.5.1",
+    "yargs": "^17.4.1"
+  }
+}
