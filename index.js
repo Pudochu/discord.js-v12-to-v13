@@ -26,9 +26,9 @@ fs.readdirSync('./commands').forEach(async dir => {
         if(count > veri.length) {
         count = count + 1
         console.log('\n\n|-----------------------------|')
-        console.log('| İŞLEM BAŞARIYLA TAMAMLANDI! |')
+        console.log('| PROCESS COMPLETED SUCCESSFULLY! |')
         console.log('| --------------------------- |')
-        console.log('|   Artık "' + files_count + '" kodunuz V13!  |')
+        console.log('|  Now your "' + files_count + '" code is V13!  |')
         console.log('|-----------------------------|')
         process.exit(5)
         } else {
